@@ -1,6 +1,6 @@
 # 1   test
 def ok
- if true
+ if true == true
    return true
  else
    return false
