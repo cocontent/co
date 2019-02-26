@@ -1,0 +1,9 @@
+# Common configuration.
+
+AllCops:
+  RubyInterpreters:
+    - ruby
+    - macruby
+    - rake
+    - jruby
+    - rbx
