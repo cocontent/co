@@ -1,8 +1,8 @@
 # thanks
 def ok
  if true
-   return true
+   true
  else
-   return false
+   false
  end
 end
