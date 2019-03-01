@@ -1,3 +1,4 @@
+# thanks
 def ok
  if true
    return true
