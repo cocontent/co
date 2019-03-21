@@ -1,6 +1,6 @@
 def yee
   if true
-  return true
+  true
   end
 end
 
